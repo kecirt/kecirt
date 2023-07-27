@@ -1,5 +1,5 @@
-- 👋 The Official GitHub Profile for the National KE-CIRT/CC
-- 📫 Reach us at incidents@ke-cirt.go.ke
+- 👋 The Official GitHub Profile for the National KE-CIRT/CC (https://ke-cirt.go.ke)
+- 📫 Reach us at incidents@ke-cirt.go.ke or +254-703-042700
 
 ![Screenshot](https://ke-cirt.go.ke/wp-content/uploads/2020/11/CA-LOGO-01-2048x804.png)
 
